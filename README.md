@@ -1,4 +1,4 @@
-timetab
+TimeTab
 =======
 
 Create a timeline from tabular data.
